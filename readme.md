@@ -24,7 +24,8 @@ This repository contains a collection of Jupyter Notebook examples showcasing di
 
 7. [llava-2-Mistral-7B.ipynb](./llava-2-Mistral-7B.ipynb)
    - Description: Utilizes the Mistral-7B model with LLaVa-2.
-
+8. [llava-fine-tune-with-custom-data](./Fine_tune_LLaVa_on_a_custom_dataset.ipynb)
+   - Description: LLaVA fine tuning with receipt datasets and output in JSON
 ## Getting Started
 
 To run the notebook files locally, follow these steps:
