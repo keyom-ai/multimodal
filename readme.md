@@ -4,7 +4,7 @@ This repository contains a collection of Jupyter Notebook examples showcasing di
 
 ## Notebook Files
 
-1. [LLaVa_NeXt_Video_demo_inference.ipynb](./LLaVa_NeXt_Video_demo_inference.ipynb)
+1. [LLaVa_NeXt_Video_demo_inference.ipynb](./LLaVa_NeXT_Video_demo_inference.ipynb)
    - Description: Demonstrates inference using the LLaVa NeXt Video model.
 
 2. [Llava_demo_4bit.ipynb](./Llava_demo_4bit.ipynb)
